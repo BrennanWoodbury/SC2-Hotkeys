@@ -4,6 +4,9 @@ Suffix=_SC1
 
 [Hotkeys]
 PTT=
+MenuAchievements=
+MenuMessages=F12
+MenuHelp=
 AlertRecall=
 ArmySelect=
 ControlGroupAppend0=Shift+Grave
@@ -99,6 +102,7 @@ Oracle/Stargate=R
 OracleWeaponOff/Oracle=X
 OracleWeaponOn/Oracle=F
 Overlord/Larva=Q
+Probe/Nexus=E
 PurificationNovaTargeted/Disruptor=F
 Pylon/Probe=E
 Rally=Apostrophe
@@ -123,6 +127,7 @@ SiegeTank/Factory=A
 SpawnChangeling/Overseer=F
 SpineCrawler/Drone=X
 SporeCrawler/Drone=C
+Stalker=S
 SummonNydusWorm/NydusNetwork=F
 TechLabBarracks/Barracks=T
 TechLabBarracks/BarracksFlying=C
