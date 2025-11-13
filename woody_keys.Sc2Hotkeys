@@ -18,6 +18,7 @@ ControlGroupRecall0=Grave
 ControlGroupRecall9=CapsLock
 IdleWorker=
 StatusAll=
+TownCamera=Backspace,Space
 CameraSave0=Control+F1
 CameraSave1=Control+F2
 CameraSave2=Control+F3
