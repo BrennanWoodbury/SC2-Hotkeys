@@ -3,8 +3,19 @@ AllowSetConflicts=1
 Suffix=_SC1
 
 [Hotkeys]
+PTT=
 AlertRecall=
 ArmySelect=
+ControlGroupAppend0=Shift+Grave
+ControlGroupAppend9=Shift+CapsLock
+ControlGroupAppendAndSteal0=Shift+Alt+Grave
+ControlGroupAppendAndSteal9=Shift+Alt+CapsLock
+ControlGroupAssign0=Control+Grave
+ControlGroupAssign9=Control+CapsLock
+ControlGroupAssignAndSteal0=Alt+Grave
+ControlGroupAssignAndSteal9=Alt+CapsLock
+ControlGroupRecall0=Grave
+ControlGroupRecall9=CapsLock
 IdleWorker=
 StatusAll=
 CameraSave0=Control+F1
