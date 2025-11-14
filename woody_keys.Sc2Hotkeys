@@ -21,6 +21,7 @@ ControlGroupRecall0=Grave
 ControlGroupRecall9=CapsLock
 IdleWorker=
 StatusAll=
+TargetChoose=LeftMouseButton,F,B,E,S,F,T,R,C
 TownCamera=Backspace,Space
 WarpIn=W
 CameraSave0=Control+F1
